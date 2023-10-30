@@ -12,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Redvey&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Redvey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+### 🌝 Open Source
+[![An image of @redvey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redvey)](https://holopin.io/@redvey)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Redvey&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
