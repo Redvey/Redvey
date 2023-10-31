@@ -1,6 +1,4 @@
-              - name: generate-snake-game-from-GitHub-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
+
 # 💫 About Me:
 "Hello, I'm Roopam Barman, immersed in Flutter app development and UI/UX design. Alongside these, I delve into Data Structures and Algorithms. Excited about AI/ML, I wield languages like C, C++, Python, and Dart, and I'm adept in AI tools like Framer."
 
