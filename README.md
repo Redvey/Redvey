@@ -33,4 +33,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Redvey&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Generate Datas](https://github.com/Redvey/Redvey/actions/workflows/main.yml/badge.svg)](https://github.com/Redvey/Redvey/actions/workflows/main.yml)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
