@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/{{Redvey}}/{{Redvey}}/blob/output/github-contribution-grid-snake.svg)
 # 💫 About Me:
 "Hello, I'm Roopam Barman, immersed in Flutter app development and UI/UX design. Alongside these, I delve into Data Structures and Algorithms. Excited about AI/ML, I wield languages like C, C++, Python, and Dart, and I'm adept in AI tools like Framer."
 
