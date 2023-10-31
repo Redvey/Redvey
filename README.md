@@ -1,7 +1,8 @@
-![Snake animation](https://github.com/{{Redvey}}/{{Redvey}}/blob/output/github-contribution-grid-snake.svg)
+
 # 💫 About Me:
 "Hello, I'm Roopam Barman, immersed in Flutter app development and UI/UX design. Alongside these, I delve into Data Structures and Algorithms. Excited about AI/ML, I wield languages like C, C++, Python, and Dart, and I'm adept in AI tools like Framer."
 
+--
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/RoopamBarman) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100052805929679) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roo._.pam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roopam10/) 
