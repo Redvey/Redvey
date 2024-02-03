@@ -3,6 +3,9 @@
 "Hello, I'm Roopam Barman, immersed in Flutter app development and UI/UX design. Alongside these, I delve into Data Structures and Algorithms. Excited about AI/ML, I wield languages like C, C++, Python, and Dart, and I'm adept in AI tools like Framer."
 
 
+### 🌝 Open Source
+[![An image of @redvey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redvey)](https://holopin.io/@redvey)
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/RoopamBarman) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100052805929679) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roo._.pam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roopam10/) 
@@ -14,9 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Redvey&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Redvey&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-### 🌝 Open Source
-[![An image of @redvey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redvey)](https://holopin.io/@redvey)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Redvey&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
